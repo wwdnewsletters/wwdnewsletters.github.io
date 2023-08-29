@@ -1,0 +1,90 @@
+{
+    "date": "2023-08-13",
+    "coupon": "couponcodeabc123",
+    "subject": "Here's what's been on my mind lately",
+    "preheader": "Plus, my picks for free content to help you own the day and sleep through the night",
+    "template": "weekly-wind-down",
+    "hero_background_image": "https://email-assets.calm.com/Content/Engagement/2023/08_AUG/Testing/Test.png",
+    "Block1": {
+        "snippet": "Module - On Our Mind",
+        "Block_H1": "What's on our mind",
+        "Block_Title": "What's on our mind",
+        "Block_Body": "If you're anything like me, there's a daily struggle to manage your time or use it wisely. There's the anxiety of messing up, the worry of melting down, and the fear of missing out. \n<br /><br />\nWhen you're trying to do everything and be there for everyone, that voice of self-doubt usually pops up saying \"where do I begin?\" How about beginning here and now?\n<br /><br />\nLet's own the day together — one breath, one step at a time.",
+        "Block_CTA_Link": "https:/www.calm.com",
+        "Block_CTA_Button": "CALL TO ACTION"
+    },
+    "Block2": {
+        "snippet": "Module - Upsell",
+        "Block_H2": "A gift from me: take 40% off&nbsp;Calm",
+        "Block_Body": "A Calm Premium subscription gives you all the tools you need to feel better in your pocket. All for less than the price of a massage.",
+        "Block_CTA_Link": "https://www.calm.com/new-member-offer?coupon={{coupon}}",
+        "Block_CTA_Button": "Claim 40% off now"
+    },
+    "Block3": {
+        "snippet": "Theme Feature Content by programId_2023",
+        "Block_Title": "Slip into sleep at the end of the day",
+        "Block_Program_ID": "U9cpGik76t",
+        "Block_Body": "Sleep hasn't always come easy for me. At times, it's even felt like work. Luckily I've found a formula to help me unwind and let go. This session brings together two of my favorite practices to help you drift off easily.",
+        "Block_CTA_Link": "",
+        "Block_CTA_Button": "LISTEN FOR FREE NOW"
+    },
+    "Block4": {
+        "snippet": "Theme Feature Content by programId_2023",
+        "Block_Title": "",
+        "Block_Program_ID": "2pT7B8x3Mo",
+        "Block_Body": "",
+        "Block_CTA_Link": "",
+        "Block_CTA_Button": "LISTEN FOR FREE NOW"
+    },
+    "Block5": {
+        "snippet": "Theme Feature Content by programId_2023",
+        "Block_Title": "",
+        "Block_Program_ID": "BrSsa2FrOj",
+        "Block_Body": "",
+        "Block_CTA_Link": "",
+        "Block_CTA_Button": "LISTEN FOR FREE NOW"
+    },
+    "Block6": {
+        "snippet": "Module - Emoji Feelings",
+        "Block_Emoji_Emotion_1": "Sad",
+        "Block_Emoji_Emotion_2": "Happy",
+        "Block_Emoji_Emotion_3": "Content",
+        "Block_Emoji_Emotion_4": "Angry",
+        "Block_Emoji_Link_1": "https://www.calm.com",
+        "Block_Emoji_Link_2": "https://www.calm.com",
+        "Block_Emoji_Link_3": "https://www.calm.com",
+        "Block_Emoji_Link_4": "https://www.calm.com"
+    },
+    "Block7": {
+        "snippet": "Module - Two Column - Content",
+        "Block_Title": "7 easy ways to improve your mental health right now",
+        "Block_Body": "Our stressful lives often mean that the first thing to get cut from our to-do lists is anything related to self-care. Try these easy tips.",
+        "Block_CTA_Link": "https://blog.calm.com/blog/mental-health-awareness-month-jay-shetty",
+        "Block_Image": "https://email-assets.calm.com/Content/Engagement/2023/08_AUG/Monthly-Newsletter/Shetty-Blog.png",
+        "Block_Image_Alt": "Jay Shetty"
+    },
+    "Block8": {
+        "snippet": "Module - Two Column - Content",
+        "Block_H1": "",
+        "Block_Body": "",
+        "Block_CTA_Button": "",
+        "Block_CTA_Link": ""
+    },
+    "Block9": {
+        "snippet": "breathe bubble",
+        "Block_Title": "",
+        "Block_Body": "",
+        "Block_CTA_Button": "",
+        "Block_CTA_Link": ""
+    },
+    "Block10": {
+        "snippet": "Module - Keep in Mind",
+        "Block_Title": "Keep in mind",
+        "Block_H1": "Small repeated actions lead to lifelong change.",
+        "Block_H2": "Forget your to-do list. What's on your to-be list?",
+        "Block_H3": "\"I'm chaotic\" &rarr; \"I am a person experiencing chaotic thoughts\"",
+        "Block_H4": "Need to stop a stress spiral? Note it, name it, treat it.",
+        "Block_CTA_Button": "",
+        "Block_CTA_Link": ""
+    }
+}
